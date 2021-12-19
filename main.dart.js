@@ -67205,7 +67205,7 @@ q=o.d
 p=q?C.ig:C.aB
 if(q){q=b.W(l).f.a.a/8
 b.W(l).toString
-q=new T.e3(new V.aZ(q,0,q,0),L.xf("Hello All ,This is Ramesh M S ,Doing my Graduation at Sathyabama Univeristy , Chennai,I am Flutter Developer ,  Open Source Contributor and mentor as well",n,n,n,A.kY(n,n,C.k,n,n,n,n,n,m,n,n,b.W(l).f.a.a<600?19:22,n,C.M,n,2,!0,n,n,n,n,n,n,n,10),C.av,n),n)
+q=new T.e3(new V.aZ(q,0,q,0),L.xf("Hello All ,This is Ramesh M S ,Doing my Graduation at Sathyabama Univeristy , Chennai,I am Flutter Developer ,  Open Source Contributor and mentor as well",n,n,n,A.kY(n,n,C.k,n,n,n,n,n,m,n,n,b.W(l).f.a.a<600?18:22,n,C.M,n,2,!0,n,n,n,n,n,n,n,10),C.av,n),n)
 l=q}else l=C.aB
 q=o.e?T.lI(T.wU(L.Sl(new D.t9(H.a([M.a3J("Hello All"),M.a3J("This is Ramesh M S"),M.a3J("Doing my Graduation at Sathyabama Univeristy , Chennai"),M.a3J("I am Flutter Developer ,  Open Source Contributor and mentor as well")],t.u6),new L.a83(o),!1,0,n),n,n,C.bE,!0,C.IR,C.av,n,C.aj),n,600),n,n):C.aB
 return M.adl(T.jm(C.b2,H.a([j,T.RL(H.a([s,C.ig,r,p,l,q,C.wa,o.d?T.GS(H.a([D.dX(n,U.iU("https://cdn-icons-png.flaticon.com/128/2111/2111499.png",20),C.X,!1,n,n,n,n,n,n,n,n,n,n,n,new L.a84(),n,n,n,n,n,n),C.bD,D.dX(n,U.iU("https://cdn-icons-png.flaticon.com/128/733/733553.png",20),C.X,!1,n,n,n,n,n,n,n,n,n,n,n,new L.a85(),n,n,n,n,n,n),C.bD,D.dX(n,U.iU("https://cdn-icons-png.flaticon.com/128/733/733579.png",20),C.X,!1,n,n,n,n,n,n,n,n,n,n,n,new L.a86(),n,n,n,n,n,n),C.bD,D.dX(n,U.iU("https://cdn-icons-png.flaticon.com/128/1384/1384063.png",20),C.X,!1,n,n,n,n,n,n,n,n,n,n,n,new L.a87(),n,n,n,n,n,n)],k),C.b8,C.dd,C.bk):C.aB,C.f7,C.f7],k),C.b8,C.dc,C.bk),T.mS(20,D.dX(n,K.pG(X.Et("assets/images/mouse.json",50),C.ja),C.X,!1,n,n,n,n,n,n,n,n,n,n,n,new L.a88(b),n,n,n,n,n,n),n,n,n,40,n,n)],k),C.aZ))}}
